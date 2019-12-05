@@ -3,4 +3,9 @@
     <color name="colorPrimary">#008577</color>
     <color name="colorPrimaryDark">#00574B</color>
     <color name="colorAccent">#D81B60</color>
+
+    <!-- colores de la app -->
+    <color name="fondo_app">#FFA547</color>
+    <color name="letras_inicio">#343F4B</color>
+    <color name="blanco">#FFFFFF</color>
 </resources>

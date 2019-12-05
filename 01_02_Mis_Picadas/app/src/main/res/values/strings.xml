@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">Mis Picadas</string>
+
+    <!-- Textos del Login -->
+    <string name="label_login">Ingresa tus datos</string>
+    <string name="hint_email">Ingresa tu email</string>
+    <string name="hint_contaseña">Ingresa tu contraseña</string>
+    <string name="check_recuerdame"> Recuerdame </string>
+
+    <!-- Textos de los botones -->
+    <string name="btn_ingresar"> Ingresar </string>
+    <string name="btn_crear_cuenta"> Crear una cuenta </string>
+    <string name="btn_ingresar_slogin"> Ingresar sin login </string>
 </resources>

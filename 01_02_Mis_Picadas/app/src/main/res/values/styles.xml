@@ -8,4 +8,11 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="label_inicio">
+        <item name="android:fontFamily">Roboto</item>
+        <item name="android:textColor">@color/letras_inicio</item>
+        <item name="android:textSize">30sp</item>
+        <item name="android:lineSpacingMultiplier">1.29</item>
+    </style>
+
 </resources>
