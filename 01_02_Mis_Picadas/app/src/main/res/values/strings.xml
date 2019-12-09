@@ -11,4 +11,11 @@
     <string name="btn_ingresar"> Ingresar </string>
     <string name="btn_crear_cuenta"> Crear una cuenta </string>
     <string name="btn_ingresar_slogin"> Ingresar sin login </string>
+
+    <!-- Textos del Registro -->
+    <string name="label_registro">Ingresa tus datos para registrarte</string>
+    <string name="hint_nombre">Ingresa tu nombre</string>
+    <string name="hint_contaseña_ver">Reingresa tu contraseña</string>
+    <string name="btn_registrar_cuenta"> Crear cuenta </string>
+
 </resources>
